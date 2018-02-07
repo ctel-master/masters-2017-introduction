@@ -5,7 +5,3 @@
 
 Здесь мы разместим ссылку на первое задание!
 Вот она: https://kodaktor.ru/g/m13092017
-
-
-Пример размещения изображения: 
-![alt text](https://github.com/ctel-master/masters-2017-introduction/blob/master/electron.png "Рисунок электрона")
